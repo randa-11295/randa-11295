@@ -2,7 +2,7 @@
 <h3 align="center">🌱 JavaScript developer</h3>
 
 <div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randa-11295&label=Profile%20views&color=0e75b6&style=flat" alt="randa-11295" /> </p>
