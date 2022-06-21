@@ -1,5 +1,5 @@
 <h1 align="center">Hello world👋, I'm Randa Mohamed</h1>
-<h3 align="center">🌱 JavaScript developer</h3>
+<h3 align="center">🌱 Frontend developer</h3>
 
 <div align=center>
     <img src="https://i.pinimg.com/736x/3e/5a/01/3e5a01343e70ba56c32fa7408d93cd47.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
